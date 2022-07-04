@@ -47,3 +47,12 @@ background-color: orange;
     background-color: #fff;
     border-top: none;
 }
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
